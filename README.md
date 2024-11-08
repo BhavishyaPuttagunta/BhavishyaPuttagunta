@@ -1,5 +1,5 @@
 
-Tempe, AZ | bhavishyaputtagunta@gmail.com | [LinkedIn](https://www.linkedin.com/in/bhavishya-puttagunta/) | [GitHub](https://github.com/bhavishyap)
+Tempe, AZ | bhavishyaputtagunta@gmail.com | [LinkedIn](https://www.linkedin.com/in/bhavishya-puttagunta-066b21190/) | [GitHub](https://github.com/bhavishyap)
 
 ## EDUCATION
 - **M.S., Computer Science**  
