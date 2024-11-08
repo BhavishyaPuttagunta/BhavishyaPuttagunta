@@ -68,7 +68,7 @@ Tempe, AZ | bhavishyaputtagunta@gmail.com | [LinkedIn](https://www.linkedin.com/
 - Technologies Used: Python, SQL, Power BI, Tableau, scikit-learn.
 
 **Detecting Fake Reviews with Machine Learning Algorithms**  
-*Spring 2023*
+*Spring 2022*
 - Developed a machine learning model to identify fake reviews within the Yelp dataset, enhancing the authenticity of online reviews.
 - Utilizing the Yelp Reviews dataset with approximately 700,000 reviews contributed by users across major U.S. cities.
 - Employed SVM for binary classification, distinguishing between genuine and fake reviews.
@@ -78,14 +78,14 @@ Tempe, AZ | bhavishyaputtagunta@gmail.com | [LinkedIn](https://www.linkedin.com/
 - Successfully identified fake reviews with an accuracy of 85%, enhancing the reliability of online reviews on the Yelp platform.
 
 **Extracting Brain Boundaries from rs-fmri data**  
-*Spring 2021*
+*Fall 2022*
 - Conducted analysis on a comprehensive patient dataset while extracting and analyzing brain slices to precisely define boundaries.
 - Implemented Python for data processing and analysis. Processed over 500 rs-fMRI scans to assess functional connectivity during resting states.
 - Developed custom algorithms, resulting in a 95% accuracy in boundary extraction. Proficient use of Python, including advanced libraries like NumPy.
 - Successfully delineated brain boundaries from 550 rs-fMRI scans.Performed multi-label classification of chest X-ray images to 14 distinct categories addressing a broad spectrum.
 
 **Healthcare Cost Analysis and Predictive Modeling**  
-*Spring 2021*
+*Summer 2022*
 - Analyzed healthcare claims data using SAS to identify cost drivers and predict future expenditures for a healthcare provider. The goal was to support cost management and proactive patient care planning.
 - Cleaned and analyzed patient claims data to uncover patterns in service utilization and treatment costs.
 - Developed regression and decision tree models to predict patient healthcare costs and identify high-risk patients, achieving an 85% model accuracy.
@@ -94,7 +94,7 @@ Tempe, AZ | bhavishyaputtagunta@gmail.com | [LinkedIn](https://www.linkedin.com/
 - Provided strategic insights that improved financial forecasting and resource allocation.
 
 **Healthcare Data Analysis for Patient Outcomes**  
-*Spring 2021*
+*Summer 2022*
 - Project Overview: Analyzed clinical data to identify factors affecting patient outcomes in a hospital setting. The aim was to provide actionable insights to improve healthcare delivery and patient satisfaction.
 - Data Preparation & Cleaning: Processed and cleaned a dataset containing patient records, including demographic information, treatment details, and outcome measures. Applied advanced data cleaning techniques to handle missing values, outliers, and inconsistent data entries.
 - Statistical Analysis & Modeling: Used statistical methods and machine learning models (such as logistic regression and random forests) to identify key factors influencing patient outcomes. Conducted hypothesis testing and feature importance analysis to validate findings.
@@ -112,7 +112,7 @@ Tempe, AZ | bhavishyaputtagunta@gmail.com | [LinkedIn](https://www.linkedin.com/
 - Developed an intelligent traffic signal system designed to prioritize emergency vehicles like ambulances. The primary objective was to detect the presence of an emergency vehicle in traffic and automatically change the traffic signal to green, ensuring a clear path for faster transit and reducing response times in critical situations. Integrated RFID readers at multiple traffic junctions and configured them to detect emergency vehicles. Deployed Arduino microcontrollers at each junction to process RFID signals and manage traffic lights in real-time. Conducted multiple simulations and field tests to ensure reliable detection and signal switching under various traffic conditions. Successfully demonstrated the ability to reduce average ambulance travel time by approximately 30% during peak traffic hours in controlled test environments. The project showcased the potential of integrating IoT devices in traffic management systems to enhance urban mobility and public safety.
 
 **Strategic Account Analysis and Optimization**  
-*Spring 2021*
+*Fall 2021*
 - Led a cross-functional team to optimize sales operations and maximize revenue generation for strategic accounts through data-driven analysis and strategic initiatives. The project aimed to enhance customer satisfaction, refine pricing strategies, and improve product offerings to better meet the needs of key clients.
 - Coordinated the collection and integration of diverse datasets, including sales figures, customer feedback, and historical transaction data. Ensured data accuracy and completeness for reliable analysis.
 - Utilized advanced analytical tools such as Excel and Tableau to conduct comprehensive analyses of sales performance, customer behavior, and market trends.
@@ -125,7 +125,7 @@ Tempe, AZ | bhavishyaputtagunta@gmail.com | [LinkedIn](https://www.linkedin.com/
 - Enhanced customer satisfaction scores by 25% through targeted improvements in product offerings and customer service, leading to stronger client relationships
 
 **Vehicle Key Fob Security Analysis Using RTL-SDR Technology**
-*spring2021*
+*summer 2021*
 - Utilized RTL-SDR devices to capture and analyze radio signals emitted by vehicle key fobs across various frequency bands commonly used in keyless entry systems.
 - Conducted a comprehensive scan of frequency bands within the ASU campus to detect and categorize signals related to vehicle key fobs. Analyzed signal patterns to identify typical communication sequences and anomalies.
 - Examined captured signals for weaknesses such as replay attacks and signal jamming. Demonstrated how malicious entities could exploit these vulnerabilities to bypass keyless entry systems.
