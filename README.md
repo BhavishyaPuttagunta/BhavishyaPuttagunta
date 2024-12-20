@@ -12,18 +12,26 @@ Tempe, AZ | bhavishyaputtagunta@gmail.com | [LinkedIn](https://www.linkedin.com/
 
 
 ## TECHNICAL SKILLS
-- **Languages & Databases:** Python, C/C++, C#, Java, JavaScript, CSS, PL/SQL, PostgreSQL,Json
-- **Libraries & Frameworks:** OpenCV, GeoPandas, Node.js, PyTorch,Vega-Lite
-- **Tools:** Agile, JIRA, Jupyter, Flask, MATLAB, AWS, Tableau, PowerBI 
-- **Certification & Courses:** AWS Certified Cloud Practitioner, Microsoft PowerBI Data Analyst Associate, Azure Databricks 
+- **Programming Languages:** Python, R, C, SAS
+- **ML Frameworks:** TensorFlow, PyTorch, scikit-learn
+- **Data Engineering & Visualization::** Hadoop, Spark, SQL, Power BI, Tableau, Excel
+- **Cloud Platforms:** AWS (Certified Cloud Practitioner), Azure, GCP
+- **Databases:** MySQL, PostgreSQL, NoSQL (MongoDB)
+- **Certification:** AWS Certified Cloud Practitioner,Microsoft Certified Power BI Associate,Azure Databricks Engineer,PegaCertified Senior System Architect.
 
 
 ## PROFESSIONAL EXPERIENCE
-**Data Analyst:Princeton IT Services**  
+**Data Engineer:Princeton IT Services**  
+**Client:New York Power Authority**
 *May 2024 – Present*
-- Partnered with cross-functional teams and clients to align business objectives with actionable data strategies, driving a 20% improvement in project outcomes through clear data insights..Collected, cleaned, and integrated data from diverse sources such as SQL Server, Excel, and cloud databases, ensuring data integrity and completeness for accurate analysis.
-- Conducted data preparation and management for large-scale biodiversity datasets, including traits, taxonomies, and occurrence data to support environmental decision-making.
-- Created interactive dashboards in Power BI and Tableau, reducing decision-making time by 40% across various organizational levels.Created complex SQL queries, views, and stored procedures to support data extraction, transformation, and reporting. Utilized global remotely-sensed imagery data and climate products to enhance data analysis and provide actionable insights for environmental monitoring projects.Monitoring and improving rules as well as designing and developing data quality rules in Ataccama.Assisted in the development and deployment of predictive modeling, ETL, and data cleaning using machine learning techniques to forecast infrastructure resource needs. Responded to ad-hoc data requests from management & clients.
+- Successfully installed, configured, and implemented the Ataccama One DQ Suite, ensuring 100% alignment with the architecture defined by the Solution Engineering team.
+- Assessed and migrated over 500 data quality business rules from Trillium DQ to Ataccama, enhancing rule efficiency by 20% and improving data accuracy across CRM datasets.
+- Established seamless connections between Ataccama One and SAP systems, profiling and monitoring datasets with a 30% reduction in profiling time.
+- Onboarded modules to Ataccama, resulting in a 25% improvement in data quality scores for Microsoft Dynamics 365 CRM datasets.
+- Partnered with 10+ cross-functional teams to align DQ rules with business requirements, achieving a 95% adoption rate of the Ataccama platform across relevant teams.
+- Optimized processes for Financial Management, Procurement, Supply Chain, and Asset Management in SAP ERP, enabling a 15% reduction in data-related downtime.
+- Identified and implemented enhancements to existing DQ processes, leading to a 20% increase in data governance efficiency and improved reporting accuracy.
+
 
 **Graduate Student Assistant- Arizona State University**  
 *Jan 2023 – May 2023*
