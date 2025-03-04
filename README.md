@@ -4,11 +4,11 @@ Tempe, AZ | bhavishyaputtagunta@gmail.com | [LinkedIn](https://www.linkedin.com/
 ## EDUCATION
 - **M.S., Computer Science**  
   Arizona State University, Tempe  
-  May 2024 | 3.90 GPA 
+  3.90 GPA 
 
 - **B. Tech, Computer Engineering**  
   V.R Siddhartha Engineering College, Vijayawada  
-  July 2022 | 8.4 GPA
+  8.4 GPA
 
 ## TECHNICAL SKILLS
 - **Programming Languages:** Python, R, C, SAS, SQL
