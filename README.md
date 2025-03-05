@@ -32,12 +32,13 @@ Tempe, AZ | bhavishyaputtagunta@gmail.com | [LinkedIn](https://www.linkedin.com/
 - Enhanced data governance through Ataccama One, leading to a 20% governance efficiency increase. 
 - Designed a dashboard using Tableau like data visualization technology. Architectured, implemented and deployed new data models and data processes in production.Performed data analysis to generate business insights and managed data warehouse plans for a group of Meta products.
 - The load time of a dashboard was increased from 45.8s to 4.5s.
+
 **Client: Princeton IT Services (Internal Project)**
 - Developed a security tool to check and validate existing DNS Records for DMARC, DKIM and SPF Records.
 - Implemented a user-friendly DNS Records Generation tool utilizing the Cryptography library in Python. 
 - Deployed the application using AWS Lambda to a domain owned by Princeton IT Services.
 
-**Azure Data Engineer:Imbuesys Inc**	
+**Azure Engineer:Imbuesys Inc**	
 *May 2023 - May 2024*
 - Designed and maintained an efficient data pipeline architecture, improving data processing speed by 30% and supporting data-driven decision-making.Developed optimized SQL queries, reducing query execution time by 40% and improving database performance.
 - Built and maintained over 15+ interactive dashboards and reports using Power BI and Tableau, enhancing business insights and operational efficiency.Collaborated with cross-functional teams to enhance system functionality, leading to a 25% increase in data accessibility and usability.
@@ -45,6 +46,7 @@ Tempe, AZ | bhavishyaputtagunta@gmail.com | [LinkedIn](https://www.linkedin.com/
 - Utilized AWS services (CloudFormation, EC2, IAM, Lambda) to deploy scalable solutions, reducing cloud costs by 15%.
 - Managed Git repositories, ensuring version control and seamless collaboration across teams, reducing deployment errors by 30%.Leveraged Python for automation, cutting manual data processing efforts by 50% and improving workflow efficiency.
 - Developed ETL infrastructure, optimizing data extraction, transformation, and loading, reducing latency by 40% and ensuring real-time data availability.
+
 **Client:National Council of State Boards of Nursing**                                                                                                            
 - Designed and maintained a real-time data pipeline on Azure using Event Hubs, Stream Analytics, and Data Factory, improving data processing efficiency by 70% and handling 1,000+ events/sec.
 - Processed and transformed real-time and historical stock data with Azure Databricks (PySpark), cutting processing time by 40% and improving query performance by 5x using Azure Synapse Analytics.
