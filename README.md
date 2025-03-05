@@ -32,6 +32,7 @@ Tempe, AZ | bhavishyaputtagunta@gmail.com | [LinkedIn](https://www.linkedin.com/
 - Enhanced data governance through Ataccama One, leading to a 20% governance efficiency increase. 
 - Designed a dashboard using Tableau like data visualization technology. Architectured, implemented and deployed new data models and data processes in production.Performed data analysis to generate business insights and managed data warehouse plans for a group of Meta products.
 - The load time of a dashboard was increased from 45.8s to 4.5s.
+
 **Client: Princeton IT Services (Internal Project)**
 - Developed a security tool to check and validate existing DNS Records for DMARC, DKIM and SPF Records.
 - Implemented a user-friendly DNS Records Generation tool utilizing the Cryptography library in Python. 
@@ -47,10 +48,10 @@ Tempe, AZ | bhavishyaputtagunta@gmail.com | [LinkedIn](https://www.linkedin.com/
 - Developed ETL infrastructure, optimizing data extraction, transformation, and loading, reducing latency by 40% and ensuring real-time data availability.
 
 **Client:National Council of State Boards of Nursing**                                                                                                            
-Designed and maintained a real-time data pipeline on Azure using Event Hubs, Stream Analytics, and Data Factory, improving data processing efficiency by 70% and handling 1,000+ events/sec.
-Processed and transformed real-time and historical stock data with Azure Databricks (PySpark), cutting processing time by 40% and improving query performance by 5x using Azure Synapse Analytics.
-Stored terabytes of structured and unstructured data in Azure Data Lake Storage and optimized querying to reduce retrieval time by 50%.Developed interactive Power BI dashboards for real-time stock tracking and trends, enhancing reporting efficiency by 50%, and automated alerts using Azure Functions to reduce manual monitoring by 90%.
-Leveraged serverless Azure SQL and autoscaling Databricks clusters, reducing cloud costs by 30%, and streamlined automation with ADF triggers to eliminate manual data pipeline interventions.
+- Designed and maintained a real-time data pipeline on Azure using Event Hubs, Stream Analytics, and Data Factory, improving data processing efficiency by 70% and handling 1,000+ events/sec.
+- Processed and transformed real-time and historical stock data with Azure Databricks (PySpark), cutting processing time by 40% and improving query performance by 5x using Azure Synapse Analytics.
+- Stored terabytes of structured and unstructured data in Azure Data Lake Storage and optimized querying to reduce retrieval time by 50%.Developed interactive Power BI dashboards for real-time stock tracking and trends, enhancing reporting efficiency by 50%, and automated alerts using Azure Functions to reduce manual monitoring by 90%.
+- Leveraged serverless Azure SQL and autoscaling Databricks clusters, reducing cloud costs by 30%, and streamlined automation with ADF triggers to eliminate manual data pipeline interventions.
 
 **Graduate Student Assistant- Arizona State University**  
 *Jan 2023 – May 2023*
