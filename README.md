@@ -45,6 +45,7 @@ Tempe, AZ | bhavishyaputtagunta@gmail.com | [LinkedIn](https://www.linkedin.com/
 - Utilized AWS services (CloudFormation, EC2, IAM, Lambda) to deploy scalable solutions, reducing cloud costs by 15%.
 - Managed Git repositories, ensuring version control and seamless collaboration across teams, reducing deployment errors by 30%.Leveraged Python for automation, cutting manual data processing efforts by 50% and improving workflow efficiency.
 - Developed ETL infrastructure, optimizing data extraction, transformation, and loading, reducing latency by 40% and ensuring real-time data availability.
+
 **Client:National Council of State Boards of Nursing**                                                                                                            
 Designed and maintained a real-time data pipeline on Azure using Event Hubs, Stream Analytics, and Data Factory, improving data processing efficiency by 70% and handling 1,000+ events/sec.
 Processed and transformed real-time and historical stock data with Azure Databricks (PySpark), cutting processing time by 40% and improving query performance by 5x using Azure Synapse Analytics.
