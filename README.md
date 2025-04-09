@@ -17,6 +17,8 @@ Tempe, AZ | bhavishyaputtagunta@gmail.com | [LinkedIn](https://www.linkedin.com/
 - **Data Visualization::** Power BI, Tableau, Excel
 - **Cloud Platforms:** AWS (Certified Cloud Practitioner), Azure
 - **Databases:** MySQL, PostgreSQL, NoSQL (MongoDB)
+- **QA & Automation Tools:** Selenium, Pytest, XCUITest, Appium, JUnit
+- **Testing Frameworks & CI/CD:** Jenkins, Git, Postman, JIRA, TestRail
 - **Certification:** AWS Certified Cloud Practitioner,Microsoft Certified Power BI Associate,Azure Databricks Engineer,PegaCertified Senior System Architect.
 
 
@@ -24,14 +26,14 @@ Tempe, AZ | bhavishyaputtagunta@gmail.com | [LinkedIn](https://www.linkedin.com/
 **Data Engineer:Princeton IT Services**  
 **Client:New York Power Authority**
 *May 2024 – Present*
-- Designed and implemented scalable ETL processes, enhancing data flow principles aligning with business needs. 
-- Successfully installed, configured, and implemented the Ataccama One DQ Suite, ensuring 100% alignment with architecture defined by the Solution Engineering team. 
-- Optimized data governance processes for Financial Management, Procurement, Supply Chain, and Asset Management in SAP ERP, reducing data-related downtime by 15%. 
-- Assessed and migrated over 500 data quality business rules from Trillium DQ to Ataccama, achieving a 20% efficiency increase. 
-- Onboarded modules to Ataccama, improving data quality scores for Microsoft Dynamics 365 CRM datasets by 25% and achieving 95% platform adoption with cross-functional teams. 
-- Enhanced data governance through Ataccama One, leading to a 20% governance efficiency increase. 
-- Designed a dashboard using Tableau like data visualization technology. Architectured, implemented and deployed new data models and data processes in production.Performed data analysis to generate business insights and managed data warehouse plans for a group of Meta products.
-- The load time of a dashboard was increased from 45.8s to 4.5s.
+- Leading the end-to-end migration of enterprise CRM (Microsoft Dynamics 365) and SAP ERP data to Ataccama Cloud, enhancing data quality, governance, and cloud-based scalability.
+- Developed scalable and optimized ETL pipelines to support seamless data integration across Financial Management, Procurement, Supply Chain, and Asset Management modules.
+- Successfully onboarded high-volume datasets into Ataccama, improving data quality scores by 25% and reducing data-related downtime by 15%.
+- Assessed and transitioned over 500+ business rules from legacy Trillium DQ to Ataccama, boosting rule execution efficiency by 20% and ensuring 100% compliance with governance frameworks.
+- Partnered with solution architects to align migration architecture with strategic data governance initiatives, accelerating Ataccama platform adoption to 95% across functional teams.
+- Built internal monitoring dashboards using Tableau for governance KPIs and data profiling metrics, reducing dashboard load time from 45.8s to 4.5s and improving visibility into data health.
+- Communicated complex data strategies and migration roadmaps to non-technical stakeholders, bridging the gap between business objectives and technical execution.
+- Ensured adherence to high ethical standards in data privacy and governance, championing a strong risk-aware culture during cloud migration.
 
 **Client: Princeton IT Services (Internal Project)**
 - Developed a security tool to check and validate existing DNS Records for DMARC, DKIM and SPF Records.
@@ -40,12 +42,14 @@ Tempe, AZ | bhavishyaputtagunta@gmail.com | [LinkedIn](https://www.linkedin.com/
 
 **Azure Engineer:Imbuesys Inc**	
 *May 2023 - May 2024*
-- Designed and maintained an efficient data pipeline architecture, improving data processing speed by 30% and supporting data-driven decision-making.Developed optimized SQL queries, reducing query execution time by 40% and improving database performance.
-- Built and maintained over 15+ interactive dashboards and reports using Power BI and Tableau, enhancing business insights and operational efficiency.Collaborated with cross-functional teams to enhance system functionality, leading to a 25% increase in data accessibility and usability.
-- Designed and implemented ETL pipelines processing millions of records daily, reducing data transformation time by 50%.Effectively communicated insights and recommendations to technical and business stakeholders, influencing strategic decisions and driving a 20% improvement in operational performance.
-- Utilized AWS services (CloudFormation, EC2, IAM, Lambda) to deploy scalable solutions, reducing cloud costs by 15%.
-- Managed Git repositories, ensuring version control and seamless collaboration across teams, reducing deployment errors by 30%.Leveraged Python for automation, cutting manual data processing efforts by 50% and improving workflow efficiency.
-- Developed ETL infrastructure, optimizing data extraction, transformation, and loading, reducing latency by 40% and ensuring real-time data availability.
+- Designed and maintained advanced SQL data models and optimized queries, reducing query execution time by 40% and improving system performance.
+- Built and deployed interactive dashboards using Power BI and Tableau to track real-time stock data and trends, increasing reporting efficiency by 50%.Led end-to-end data projects, from initial requirement gathering to production deployment, ensuring on-time delivery 
+  within resource constraints.
+- Processed high-volume streaming data (1,000+ events/sec) using Azure Event Hubs, Stream Analytics, and Databricks (PySpark), boosting data processing efficiency by 70%.
+- Collaborated cross-functionally with product and operations teams to interpret and communicate technical insights to non-technical stakeholders, influencing key strategic decisions.
+- Developed automation scripts in Python to streamline manual workflows, cutting processing efforts by 50% and improving overall data accuracy.Leveraged cloud technologies such as AWS Lambda, Azure Data Factory, and Databricks autoscaling clusters to ensure scalable, 
+  cost-efficient solutions—reducing cloud spend by 30%.
+
 
 **Client:National Council of State Boards of Nursing**                                                                                                            
 - Designed and maintained a real-time data pipeline on Azure using Event Hubs, Stream Analytics, and Data Factory, improving data processing efficiency by 70% and handling 1,000+ events/sec.
