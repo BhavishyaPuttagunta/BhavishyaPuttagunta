@@ -34,21 +34,36 @@ Tempe, AZ | bhavishyaputtagunta@gmail.com | [LinkedIn](https://www.linkedin.com/
 - Built internal monitoring dashboards using Tableau for governance KPIs and data profiling metrics, reducing dashboard load time from 45.8s to 4.5s and improving visibility into data health.
 - Communicated complex data strategies and migration roadmaps to non-technical stakeholders, bridging the gap between business objectives and technical execution.
 - Ensured adherence to high ethical standards in data privacy and governance, championing a strong risk-aware culture during cloud migration.
+- Led data migration and analytics initiatives for the insurance-aligned operations, focusing on claims, finance, procurement, and asset management.
+- Developed robust and scalable ETL pipelines to enable cross-functional data ingestion and transformation, supporting claim processing efficiency.
+- Designed and monitored KPIs in Tableau to track governance, claims processing times, and data quality, cutting dashboard latency by 90%.
+- Utilized root cause analysis and statistical models to uncover anomalies in policy and asset claim datasets, improving reporting accuracy.
+- Directed transition of 500+ data quality rules from Trillium DQ to Ataccama, boosting efficiency by 20% while aligning with data governance standards.
+- Built and maintained comprehensive data dictionaries and metadata documentation for governance and compliance tracking.
+- Mentored junior analysts on data validation strategies, statistical analysis, and business storytelling techniques using Power BI.
+- Presented complex data insights and migration roadmaps to senior leadership and non-technical teams, supporting strategic decisions.
+
 
 **Client: Princeton IT Services (Internal Project)**
 - Developed a security tool to check and validate existing DNS Records for DMARC, DKIM and SPF Records.
 - Implemented a user-friendly DNS Records Generation tool utilizing the Cryptography library in Python. 
 - Deployed the application using AWS Lambda to a domain owned by Princeton IT Services.
 
-**Azure Engineer:Imbuesys Inc**	
+**Bussiness Analyst:Imbuesys Inc**	
 *May 2023 - May 2024*
 - Designed and maintained advanced SQL data models and optimized queries, reducing query execution time by 40% and improving system performance.
-- Built and deployed interactive dashboards using Power BI and Tableau to track real-time stock data and trends, increasing reporting efficiency by 50%.Led end-to-end data projects, from initial requirement gathering to production deployment, ensuring on-time delivery 
-  within resource constraints.
+- Built and deployed interactive dashboards using Power BI and Tableau to track real-time stock data and trends, increasing reporting efficiency by 50%.Led end-to-end data projects, from initial requirement gathering to production deployment, ensuring on-time delivery  within resource constraints.
 - Processed high-volume streaming data (1,000+ events/sec) using Azure Event Hubs, Stream Analytics, and Databricks (PySpark), boosting data processing efficiency by 70%.
 - Collaborated cross-functionally with product and operations teams to interpret and communicate technical insights to non-technical stakeholders, influencing key strategic decisions.
-- Developed automation scripts in Python to streamline manual workflows, cutting processing efforts by 50% and improving overall data accuracy.Leveraged cloud technologies such as AWS Lambda, Azure Data Factory, and Databricks autoscaling clusters to ensure scalable, 
-  cost-efficient solutions—reducing cloud spend by 30%.
+- Developed automation scripts in Python to streamline manual workflows, cutting processing efforts by 50% and improving overall data accuracy.Leveraged cloud technologies such as AWS Lambda, Azure Data Factory, and Databricks autoscaling clusters to ensure scalable, cost-efficient solutions—reducing cloud spend by 30%.
+- Collaborated with operational stakeholders to gather requirements and define KPIs tailored to insurance claims and business processes.
+- Applied statistical and ROI analysis to evaluate technology impact on claims cycle reduction, driving process improvement initiatives.
+- Built interactive Power BI dashboards to measure performance and productivity metrics in support teams.
+- Supported UAT and data testing efforts by validating field-level data flows, identifying mismatches and ensuring data integrity.
+- Developed training material and documentation to foster data literacy across the organization.
+- Led monthly business review presentations to showcase analytics insights and align strategies with leadership objectives.
+- Designed and maintained data mapping documentation to ensure clarity and traceability across systems.
+
 
 
 **Client:National Council of State Boards of Nursing**                                                                                                            
