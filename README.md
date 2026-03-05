@@ -19,7 +19,7 @@ Princeton, NJ | bhavishyaputtagunta@gmail.com | [LinkedIn](https://www.linkedin.
 - **Databases:** MySQL, PostgreSQL, NoSQL (MongoDB)
 - **QA & Automation Tools:** Selenium, Pytest, XCUITest, Appium, JUnit
 - **Testing Frameworks & CI/CD:** Jenkins, Git, Postman, JIRA, TestRail
-- **Certification:** AWS Certified Cloud Practitioner,Microsoft Certified Power BI Associate,Azure Databricks Engineer,PegaCertified Senior System Architect.
+- **Certification:** AWS Certified Cloud Practitioner,Microsoft Certified Power BI Associate,Azure Databricks Engineer,PegaCertified Senior System Architect,Microsoft Certified Azure AI Engineer
 
 
 ## PROFESSIONAL EXPERIENCE
