@@ -23,7 +23,20 @@ Tempe, AZ | bhavishyaputtagunta@gmail.com | [LinkedIn](https://www.linkedin.com/
 
 
 ## PROFESSIONAL EXPERIENCE
-**Data Engineer:Princeton IT Services**  
+**Programmer Analyst:Princeton IT Services**  
+**Client:Princeton IT Internal project**
+*March 2026 – Present*
+- Architected and developed an end-to-end AI-powered FDA regulatory monitoring system using Python and the Anthropic Claude API, enabling automated tracking of regulatory changes across food & beverage, pharmaceutical, and medical device industries.
+- Engineered a multi-tool agentic loop with real-time streaming, integrating 8 custom tools (fetch, scrape, save, read, compare, audit) that Claude orchestrates autonomously to complete complex compliance workflows.
+- Integrated the official eCFR XML API with intelligent date-fallback logic to retrieve full regulation text for any 21 CFR part, resolving JavaScript-rendering limitations of the eCFR web interface and handling structural changes such as the QMSR transition (21 CFR Part 820, February 2026).
+- Migrated knowledge base storage from flat-file architecture to SQLite with a 3-table schema (documents, versions, change_log), enabling versioned regulation storage, queryable audit trails, and full content history — replacing an unstructured file system with a scalable, indexed database.
+- Implemented SHA-256 hash-based change detection to identify regulatory amendments across re-fetches, automatically classifying each save event as NEW, CHANGED, or UNCHANGED and logging a permanent audit trail for compliance purposes.
+- Built a domain allowlist enforcement layer blocking all non-approved scraping targets at the Python level, ensuring the agent exclusively accesses verified government and standards sources (fda.gov, federalregister.gov, ecfr.gov, ISO, ICH) regardless of user input.
+- Designed a unified diff engine using Python's difflib to produce line-level comparisons between any two saved regulation versions, classifying changes as SIGNIFICANT (>5% of document) or MINOR to prioritize compliance team review.
+- Structured the codebase as modular Python packages (agents/, tools/, config/, database/) with clean separation of concerns, environment-based configuration via dotenv, and full UTF-8 encoding support for cross-platform Windows/Linux compatibility.
+- Implemented agentic loop safeguards including a 10-iteration hard limit to prevent infinite tool-call cycles, with graceful degradation and user-facing recovery instructions.
+- Designed the system for future deployment as a B2B SaaS product targeting food & beverage compliance teams, with a roadmap covering FastAPI web layer, React chat UI, per-client authentication, scheduled regulatory monitoring, and email alerting on detected changes.
+
 **Client:New York Power Authority**
 *May 2024 – Present*
 - Leading the end-to-end migration of enterprise CRM (Microsoft Dynamics 365) and SAP ERP data to Ataccama Cloud, enhancing data quality, governance, and cloud-based scalability.
@@ -63,14 +76,6 @@ Tempe, AZ | bhavishyaputtagunta@gmail.com | [LinkedIn](https://www.linkedin.com/
 - Developed training material and documentation to foster data literacy across the organization.
 - Led monthly business review presentations to showcase analytics insights and align strategies with leadership objectives.
 - Designed and maintained data mapping documentation to ensure clarity and traceability across systems.
-
-
-
-**Client:National Council of State Boards of Nursing**                                                                                                            
-- Designed and maintained a real-time data pipeline on Azure using Event Hubs, Stream Analytics, and Data Factory, improving data processing efficiency by 70% and handling 1,000+ events/sec.
-- Processed and transformed real-time and historical stock data with Azure Databricks (PySpark), cutting processing time by 40% and improving query performance by 5x using Azure Synapse Analytics.
-- Stored terabytes of structured and unstructured data in Azure Data Lake Storage and optimized querying to reduce retrieval time by 50%.Developed interactive Power BI dashboards for real-time stock tracking and trends, enhancing reporting efficiency by 50%, and automated alerts using Azure Functions to reduce manual monitoring by 90%.
-- Leveraged serverless Azure SQL and autoscaling Databricks clusters, reducing cloud costs by 30%, and streamlined automation with ADF triggers to eliminate manual data pipeline interventions.
 
 **Graduate Student Assistant- Arizona State University**  
 *Jan 2023 – May 2023*
