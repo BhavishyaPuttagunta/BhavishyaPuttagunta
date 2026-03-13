@@ -12,13 +12,14 @@ Princeton, NJ | bhavishyaputtagunta@gmail.com | [LinkedIn](https://www.linkedin.
 
 ## TECHNICAL SKILLS
 - **Programming Languages:** Python, R, C, SAS, SQL
+- **Programming Languages:** Anthropic Claude API, LLM Agent Development, Prompt Engineering, Tool Use / Function Calling, Microsoft Bot Framework, Teams Bot Development
 - **Data Governance Tools:** Ataccama One,Trilium DQ,collibra
 - **ML Frameworks:** TensorFlow, PyTorch, scikit-learn
 - **Data Visualization::** Power BI, Tableau, Excel
 - **Cloud Platforms:** AWS (Certified Cloud Practitioner), Azure
 - **Databases:** MySQL, PostgreSQL, NoSQL (MongoDB)
 - **QA & Automation Tools:** Selenium, Pytest, XCUITest, Appium, JUnit
-- **Testing Frameworks & CI/CD:** Jenkins, Git, Postman, JIRA, TestRail
+- **Testing Frameworks & CI/CD:** Jenkins, Git, Postman, JIRA
 - **Certification:** AWS Certified Cloud Practitioner,Microsoft Certified Power BI Associate,Azure Databricks Engineer,PegaCertified Senior System Architect,Microsoft Certified Azure AI Engineer
 
 
@@ -61,21 +62,6 @@ Princeton, NJ | bhavishyaputtagunta@gmail.com | [LinkedIn](https://www.linkedin.
 - Developed a security tool to check and validate existing DNS Records for DMARC, DKIM and SPF Records.
 - Implemented a user-friendly DNS Records Generation tool utilizing the Cryptography library in Python. 
 - Deployed the application using AWS Lambda to a domain owned by Princeton IT Services.
-
-**Bussiness Analyst:Imbuesys Inc**	
-*May 2023 - May 2024*
-- Designed and maintained advanced SQL data models and optimized queries, reducing query execution time by 40% and improving system performance.
-- Built and deployed interactive dashboards using Power BI and Tableau to track real-time stock data and trends, increasing reporting efficiency by 50%.Led end-to-end data projects, from initial requirement gathering to production deployment, ensuring on-time delivery  within resource constraints.
-- Processed high-volume streaming data (1,000+ events/sec) using Azure Event Hubs, Stream Analytics, and Databricks (PySpark), boosting data processing efficiency by 70%.
-- Collaborated cross-functionally with product and operations teams to interpret and communicate technical insights to non-technical stakeholders, influencing key strategic decisions.
-- Developed automation scripts in Python to streamline manual workflows, cutting processing efforts by 50% and improving overall data accuracy.Leveraged cloud technologies such as AWS Lambda, Azure Data Factory, and Databricks autoscaling clusters to ensure scalable, cost-efficient solutions—reducing cloud spend by 30%.
-- Collaborated with operational stakeholders to gather requirements and define KPIs tailored to insurance claims and business processes.
-- Applied statistical and ROI analysis to evaluate technology impact on claims cycle reduction, driving process improvement initiatives.
-- Built interactive Power BI dashboards to measure performance and productivity metrics in support teams.
-- Supported UAT and data testing efforts by validating field-level data flows, identifying mismatches and ensuring data integrity.
-- Developed training material and documentation to foster data literacy across the organization.
-- Led monthly business review presentations to showcase analytics insights and align strategies with leadership objectives.
-- Designed and maintained data mapping documentation to ensure clarity and traceability across systems.
 
 **Graduate Student Assistant- Arizona State University**  
 *Jan 2023 – May 2023*
