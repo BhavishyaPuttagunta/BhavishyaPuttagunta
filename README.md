@@ -12,7 +12,7 @@ Princeton, NJ | bhavishyaputtagunta@gmail.com | [LinkedIn](https://www.linkedin.
 
 ## TECHNICAL SKILLS
 - **Programming Languages:** Python, R, C, SAS, SQL
-- **Programming Languages:** Anthropic Claude API, LLM Agent Development, Prompt Engineering, Tool Use / Function Calling, Microsoft Bot Framework, Teams Bot Development
+- **AI & Agents:** Anthropic Claude API, LLM Agent Development, Prompt Engineering, Tool Use / Function Calling, Microsoft Bot Framework, Teams Bot Development
 - **Data Governance Tools:** Ataccama One,Trilium DQ,collibra
 - **ML Frameworks:** TensorFlow, PyTorch, scikit-learn
 - **Data Visualization::** Power BI, Tableau, Excel
