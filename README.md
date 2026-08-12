@@ -26,7 +26,7 @@ Princeton, NJ | bhavishyaputtagunta@gmail.com | [LinkedIn](https://www.linkedin.
 ## PROFESSIONAL EXPERIENCE
 **Programmer Analyst:Princeton IT Services**  
 **Client:Princeton IT Internal project**
-*March 2026 – Present*
+*May 2024 – Present*
 - Architected and developed an end-to-end AI-powered FDA regulatory monitoring system using Python and the Anthropic Claude API, enabling automated tracking of regulatory changes across food & beverage, pharmaceutical, and medical device industries.
 - Engineered a multi-tool agentic loop with real-time streaming, integrating 8 custom tools (fetch, scrape, save, read, compare, audit) that Claude orchestrates autonomously to complete complex compliance workflows.
 - Integrated the official eCFR XML API with intelligent date-fallback logic to retrieve full regulation text for any 21 CFR part, resolving JavaScript-rendering limitations of the eCFR web interface and handling structural changes such as the QMSR transition (21 CFR Part 820, February 2026).
